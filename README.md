@@ -1,2 +1,1 @@
-# Prepcourse-Henry
-Repositorio de prueba de M2
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github al escritorio global
